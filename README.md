@@ -1,7 +1,7 @@
 # Readability-score
 Readability Score
 
-Finding the readability score in a text utilizing the following algorithms.
+Finding the readability score in a text utilizing regex and the following algorithms.
 
 1) Flesch–Kincaid readability tests.
 2) Coleman–Liau index.
